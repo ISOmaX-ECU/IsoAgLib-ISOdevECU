@@ -1,3 +1,4 @@
+LaunchTargetManager/configs/IsoAgLib=org.eclipse.cdt.launch.serial.core.serialFlashTarget\:ESP32
 LaunchTargetManager/org.eclipse.cdt.launch.serial.core.serialFlashTarget,ESP32/arch=xtensa
 LaunchTargetManager/org.eclipse.cdt.launch.serial.core.serialFlashTarget,ESP32/name=ESP32
 LaunchTargetManager/org.eclipse.cdt.launch.serial.core.serialFlashTarget,ESP32/org.eclipse.cdt.launch.serial.core.serialPort=COM8
