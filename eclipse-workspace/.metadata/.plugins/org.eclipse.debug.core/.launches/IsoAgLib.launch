@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.cdt.launch.serial.launchConfigurationType">
+<stringAttribute key="org.eclipse.cdt.debug.core.target_arch" value="xtensa"/>
+<stringAttribute key="org.eclipse.cdt.debug.core.target_os" value="esp32"/>
+<stringAttribute key="org.eclipse.cdt.launch.ATTR_LOCATION" value="${system_path:python}"/>
+<stringAttribute key="org.eclipse.cdt.launch.ATTR_TOOL_ARGUMENTS" value="${env_var:IDF_PATH}/tools/idf.py -B build/cmake.run.esp32.xtensa flash"/>
+<stringAttribute key="org.eclipse.cdt.launch.WORKING_DIRECTORY" value="${workspace_loc:/IsoAgLib}"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/IsoAgLib"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.launchbar.core.originalName" value="IsoAgLib"/>
+<stringAttribute key="org.eclipse.launchbar.core.providerClass" value="org.eclipse.cdt.launch.serial.internal.SerialFlashLaunchConfigProvider"/>
+</launchConfiguration>
