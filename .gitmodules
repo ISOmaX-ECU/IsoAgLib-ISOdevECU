@@ -1,6 +1,6 @@
 [submodule "IsoAgLib"]
 	path = IsoAgLib
-url=https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+url=http://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
 [submodule "IsoAgLib-tutorial-private"]
 	path = IsoAgLib-tutorial-private
 	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
