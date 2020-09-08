@@ -1,0 +1,60 @@
+[submodule "ecuComplexVtClient_esp32/IsoAgLib"]
+	path = ecuComplexVtClient_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuComplexVtClient_esp32/IsoAgLib-tutorial-private"]
+	path = ecuComplexVtClient_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
+[submodule "ecuDataSource_esp32/IsoAgLib"]
+	path = ecuDataSource_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuDataSource_esp32/IsoAgLib-tutorial-private"]
+	path = ecuDataSource_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
+[submodule "ecuDisplay_esp32/IsoAgLib"]
+	path = ecuDisplay_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuDisplay_esp32/IsoAgLib-tutorial-private"]
+	path = ecuDisplay_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
+[submodule "ecuJoystick_esp32/IsoAgLib"]
+	path = ecuJoystick_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuJoystick_esp32/IsoAgLib-tutorial-private"]
+	path = ecuJoystick_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
+[submodule "ecuJoystickAux2All_esp32/IsoAgLib"]
+	path = ecuJoystickAux2All_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuJoystickAux2All_esp32/IsoAgLib-tutorial-private"]
+	path = ecuJoystickAux2All_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
+[submodule "ecuManagement_esp32/IsoAgLib"]
+	path = ecuManagement_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuManagement_esp32/IsoAgLib-tutorial-private"]
+	path = ecuManagement_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
+[submodule "ecuMultiSectionControl_esp32/IsoAgLib"]
+	path = ecuMultiSectionControl_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuMultiSectionControl_esp32/IsoAgLib-tutorial-private"]
+	path = ecuMultiSectionControl_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
+[submodule "ecuProprietaryCan_esp32/IsoAgLib"]
+	path = ecuProprietaryCan_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuProprietaryCan_esp32/IsoAgLib-tutorial-private"]
+	path = ecuProprietaryCan_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
+[submodule "ecuRemoteIo_esp32/IsoAgLib"]
+	path = ecuRemoteIo_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuRemoteIo_esp32/IsoAgLib-tutorial-private"]
+	path = ecuRemoteIo_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
+[submodule "ecuSimpleSectionControl_esp32/IsoAgLib"]
+	path = ecuSimpleSectionControl_esp32/IsoAgLib
+	url = https://bitbucket.osb-ag.de/scm/ccieop/isoaglib.git
+[submodule "ecuSimpleSectionControl_esp32/IsoAgLib-tutorial-private"]
+	path = ecuSimpleSectionControl_esp32/IsoAgLib-tutorial-private
+	url = https://github.com/ISOMAX/IsoAgLib-tutorial-private.git
